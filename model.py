@@ -11,3 +11,6 @@ def model2():
 
 def model3():
     print("adding code of ML Model1")
+
+
+print("Model 2 is giving best results so this is the final model")
